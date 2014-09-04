@@ -1,0 +1,2956 @@
+{
+"CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+"creatorBuild": "17018",
+"files": {
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/boilerplate.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/boilerplate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/forms.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/forms.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/forms.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/header.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/header.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/hover-effects.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/hover-effects.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/hover-effects.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/main.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/main.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/normalize.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/normalize.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/typography.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/typography.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/typography.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/ver-3.less": {
+		"allowInsecureImports": 0,
+		"createSourceMap": 0,
+		"disableJavascript": 0,
+		"fileType": 1,
+		"ieCompatibility": 1,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/ver-3.less",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/css\/ver-3.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/fonts\/nexa_light-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/fonts\/nexa_light-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/footer.kit",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/header.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/header.kit",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/pattern-bg.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4747,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/pattern-bg.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/pattern-bg.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/green-arrow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1002,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/green-arrow.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/green-arrow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/framework.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3934,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/framework.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/framework.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/front-end.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3744,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/front-end.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/front-end.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/information.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6968,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/information.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/list\/information.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4726,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/main-bg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 99490,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/main-bg.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/main-bg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/cuzin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19636,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/cuzin.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/cuzin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/eway.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25131,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/eway.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/eway.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/jaguar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22128,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/jaguar.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/jaguar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/liquorun.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37636,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/liquorun.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/liquorun.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/refrate.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13265,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/refrate.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/refrate.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/renault.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28573,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/renault.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/renault.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/spot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19696,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/spot.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/spot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/Untitled-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19634,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/Untitled-1.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/Untitled-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/veebo.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35971,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/veebo.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/veebo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/vw.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20108,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/vw.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/vw.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/zwype.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9792,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/zwype.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/project\/zwype.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/work\/zwype.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48679,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/work\/zwype.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/img\/ver-3\/work\/zwype.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/index.kit",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/jquery.onepage-scroll.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/jquery.onepage-scroll.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/jquery.onepage-scroll-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/main.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/main-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/main-ck.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/main-ck.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/min\/main-ck-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/jquery.magnific-popup-ck.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/jquery.magnific-popup-ck.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/min\/jquery.magnific-popup-ck-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/jquery.magnific-popup.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/jquery.magnific-popup.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/min\/jquery.magnific-popup-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/magnific-popup.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/magnific\/magnific-popup.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/slippry.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/slippry.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/slippry.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/slippry.min.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/min\/slippry.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/css\/libs\/animate.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/css\/libs\/animate.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/css\/site.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/css\/site.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/wow.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/wow.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/min\/wow-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/wow.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/wow.min.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/dist\/min\/wow.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/Gruntfile.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/Gruntfile.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/min\/Gruntfile-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/README.md",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee": {
+		"createSourceMap": 0,
+		"fileType": 32,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.coffee",
+		"minifyOutput": 1,
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/helpers\/SpecHelper.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/wow-spec.coffee": {
+		"createSourceMap": 0,
+		"fileType": 32,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/wow-spec.coffee",
+		"minifyOutput": 1,
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/coffeescripts\/wow-spec.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/fixtures\/custom.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/fixtures\/custom.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/fixtures\/simple.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/fixtures\/simple.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/helpers\/SpecHelper.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/helpers\/SpecHelper.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/helpers\/min\/SpecHelper-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/jasmine-jquery.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/min\/jasmine-jquery-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/jquery.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/spec\/javascripts\/libs\/min\/jquery-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/src\/wow.coffee": {
+		"createSourceMap": 0,
+		"fileType": 32,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/src\/wow.coffee",
+		"minifyOutput": 1,
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/plugin\/wow\/src\/wow.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/slider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/slider.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/min\/slider-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/jquery-1.10.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/jquery-1.10.1.min.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/jquery-1.10.1.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/less-1.6.3-ck.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/less-1.6.3-ck.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/less-1.6.3-ck-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/less-1.6.3.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/less-1.6.3.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/less-1.6.3-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/modernizr-2.6.2-respond-1.1.0.min.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/modernizr-2.6.2-respond-1.1.0.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/skrollr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/skrollr.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/skrollr-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/wow-spec.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/wow-spec.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/js\/vendor\/min\/wow-spec-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/mailer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/mailer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/7574000_60x60.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1825,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/7574000_60x60.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/7574000_60x60.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/93957450.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/93957450.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/BlueChilli-light.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2288,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/BlueChilli-light.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/BlueChilli-light.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ConvivaCommunicationProxy(1).html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ConvivaCommunicationProxy(1).html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ConvivaCommunicationProxy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ConvivaCommunicationProxy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/cuzin.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6178,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/cuzin.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/cuzin.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/follow.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1676,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/follow.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/follow.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ga.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/ga.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/ga-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/hashtag.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1808,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/hashtag.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/hashtag.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/header.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/header.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/header-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/jess.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22275,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/jess.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/jess.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/LivePass.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/LivePass.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/LivePass-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/LivePassModuleMain.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/LivePassModuleMain.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/LivePassModuleMain-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1841,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/matt.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15494,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/matt.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/matt.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/messages.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2041,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/messages.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/messages.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/my-interest.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2361,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/my-interest.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/my-interest.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/notifications.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2222,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/notifications.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/notifications.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/player.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/player.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/player-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/proxy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/proxy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/rateit.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/rateit.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/sidebarv2.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/sidebarv2.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/min\/sidebarv2-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/stars.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1597,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/stars.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/stars.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/todo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1864,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/todo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/todo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/wanter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4747,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/wanter.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/Cuzin_files\/wanter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/cuzin\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/4764.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/4764.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/4764-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-carousel.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/bootstrap-carousel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-dropdown.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-dropdown.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/bootstrap-dropdown-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-modal.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-modal.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/bootstrap-modal-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/bootstrap-tab.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/bootstrap-tab-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/ga.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/ga.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/ga-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/interlink-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2257,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/interlink-logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/interlink-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/jquery.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/jquery-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2961,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/m5-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2415,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/m5-logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/m5-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/main-ck.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/main-ck.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/main-ck-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/modernizr-2.6.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/modernizr-2.6.2.min.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/modernizr-2.6.2.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/plugins.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/Eway_files\/min\/plugins-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/eway\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/build.config.sample.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/build.config.sample.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/build.transport.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/build.transport.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/events\/events.simplesearchindexer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/events\/events.simplesearchindexer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/properties\/properties.simplesearch.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/properties\/properties.simplesearch.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/properties\/properties.simplesearchform.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/properties\/properties.simplesearchform.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.plugins.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.plugins.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.snippets.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/data\/transport.snippets.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/includes\/functions.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/_build\/includes\/functions.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/plugins\/plugin.simplesearchindexer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/plugins\/plugin.simplesearchindexer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearch.snippet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearch.snippet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearchform.snippet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearchform.snippet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearchindexall.snippet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/elements\/snippets\/simplesearchindexall.snippet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/includes\/demo.posthook.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/includes\/demo.posthook.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/de\/default.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/de\/default.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/de\/properties.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/de\/properties.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/en\/default.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/en\/default.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/en\/properties.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/en\/properties.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/fr\/default.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/fr\/default.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/fr\/properties.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/fr\/properties.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/nl\/default.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/nl\/default.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/nl\/properties.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/nl\/properties.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/ru\/default.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/ru\/default.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/ru\/properties.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/lexicon\/ru\/properties.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/mysql\/simplesearchdriverbasic.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/mysql\/simplesearchdriverbasic.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriver.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriver.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriverbasic.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriverbasic.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriversolr.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/simplesearchdriversolr.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/sqlsrv\/simplesearchdriverbasic.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/driver\/sqlsrv\/simplesearchdriverbasic.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/sihooks.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/sihooks.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/simplesearch.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/splittingred-SimpleSearch-c451383\/core\/components\/simplesearch\/model\/simplesearch\/simplesearch.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/manifest.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/manifest.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/mysql\/starrating.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/mysql\/starrating.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/mysql\/starrating.map.inc.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/mysql\/starrating.map.inc.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/starrating.class.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/model\/star_rating\/starrating.class.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/starrating.snippet.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/0\/star_rating\/starrating.snippet.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/1\/star_rating\/themes\/default\/star.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/1\/star_rating\/themes\/default\/star.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/1\/star_rating\/themes\/hearts\/star.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Extras\/starrating-2.0-rc1\/modCategory\/0aaf03ba91c7c760d4385b23514ee310\/1\/star_rating\/themes\/hearts\/star.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/find.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/find.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/games.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/games.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/help.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/help.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/bgCenter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89343,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/bgCenter.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/bgCenter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26506,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/missing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3827,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/missing.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/missing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2995,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumb.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumbDown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2982,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumbDown.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/thumbDown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/Untitled-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3567,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/Untitled-1.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/Untitled-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/webb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36010,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/webb.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/images\/webb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/jquery.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/jquery.carousel.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/min\/jquery.carousel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/ref.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/ref.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/ref2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/ref2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/referate_HTML5.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/referate_HTML5.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/bgCenter.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89343,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/bgCenter.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/bgCenter.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26506,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/missing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3827,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/missing.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/missing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumb.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2995,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumb.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumb.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumbDown.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2982,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumbDown.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/thumbDown.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/Untitled-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3567,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/Untitled-1.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/Untitled-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/webb.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 36010,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/webb.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/images\/webb.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/scripts\/jquery.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/scripts\/jquery.carousel.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/_\/scripts\/min\/jquery.carousel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/Template_raw.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template\/Template_raw.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template_raw.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/referate\/Template_raw.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/spot.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 411904,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/spot.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/spot.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/2jHDVUTdIky4wCg7olGCRg.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3086,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/2jHDVUTdIky4wCg7olGCRg.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/2jHDVUTdIky4wCg7olGCRg.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/arrow-steps-index.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 213,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/arrow-steps-index.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/arrow-steps-index.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/Bd1Tp4dVuE2GAYnfp75u0w.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3886,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/Bd1Tp4dVuE2GAYnfp75u0w.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/Bd1Tp4dVuE2GAYnfp75u0w.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/BlueChilli-dark.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 475,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/BlueChilli-dark.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/BlueChilli-dark.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/bootstrap-datepicker.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/bootstrap-datepicker.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/bootstrap-datepicker-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/cmqBF3kex0OJ7NvZ_VzMGA.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3202,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/cmqBF3kex0OJ7NvZ_VzMGA.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/cmqBF3kex0OJ7NvZ_VzMGA.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/D3in4X8gAkaNZ_Hfz_fBOw.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2979,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/D3in4X8gAkaNZ_Hfz_fBOw.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/D3in4X8gAkaNZ_Hfz_fBOw.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/google_white2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2166,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/google_white2.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/google_white2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/index-slide-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208364,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/index-slide-1.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/index-slide-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/iv2AjFkmS0W27tqB98Y69w.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3581,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/iv2AjFkmS0W27tqB98Y69w.jpg",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/iv2AjFkmS0W27tqB98Y69w.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5121,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/main.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/main-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/mapcnt3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2744,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/mapcnt3.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/mapcnt3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/select-destination.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3216,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/select-destination.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/select-destination.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/sidebarv2.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/sidebarv2.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/sidebarv2-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/track.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/track.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/track-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/yyCJ63JhDR9931xqcfaA.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/yyCJ63JhDR9931xqcfaA.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/yyCJ63JhDR9931xqcfaA-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{common,map,util,marker}.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{common,map,util,marker}.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/{common,map,util,marker}-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{onion,controls}.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{onion,controls}.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/{onion,controls}-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{stats}.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/{stats}.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/vebo\/Vebo - Vebo_files\/min\/{stats}-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/app-store.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1358,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/app-store.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/app-store.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-left.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 228,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-left.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-left.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-right.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-right.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/arrow-right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/bar-owner-header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 222214,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/bar-owner-header.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/bar-owner-header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/BlueChilli-light.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2288,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/BlueChilli-light.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/BlueChilli-light.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/close-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1337,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/close-icon.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/close-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/convinient.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1976,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/convinient.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/convinient.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/footer-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 422,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/footer-logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/footer-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/lock.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1761,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/lock.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/lock.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2020,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/logo.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/main.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/main.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/min\/main-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/menu.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1304,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/menu.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/menu.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/sidebarv2.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/sidebarv2.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/min\/sidebarv2-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/slider.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/slider.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/min\/slider-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/smooth.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1932,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/smooth.png",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/smooth.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/{common,util,stats}.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/{common,util,stats}.js",
+		"outputAbbreviatedPath": "\/Volumes\/My Passport for Mac\/Projects\/Sally's portfo\/Sally\/Projects\/zwype\/Zwype_files\/min\/{common,util,stats}-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		}
+	},
+"hooks": [
+	],
+"lastSavedByUser": "Stephanie Lee",
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"bowerAbbreviatedPath": "",
+	"displayValue": "Sally",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "compass_gray"
+	},
+"projectSettings": {
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoApplyPSLanguageSettingsStyle": 0,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoSyncProjectSettingsFile": 1,
+	"browserRefreshDelay": 0.25,
+	"coffeeAutoOutputPathRelativePath": "",
+	"coffeeAutoOutputPathReplace1": "",
+	"coffeeAutoOutputPathReplace2": "",
+	"coffeeAutoOutputPathStyle": 0,
+	"coffeeCreateSourceMap": 0,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"coffeeMinifyOutput": 1,
+	"coffeeOutputStyle": 0,
+	"coffeeSyntaxCheckerStyle": 1,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"externalServerPreviewPathAddition": "",
+	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathRelativePath": "",
+	"hamlAutoOutputPathReplace1": "",
+	"hamlAutoOutputPathReplace2": "",
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
+	"hamlNoEscapeInAttributes": 0,
+	"hamlOutputFormat": 2,
+	"hamlOutputStyle": 0,
+	"hamlUseCDATA": 0,
+	"hamlUseDoubleQuotes": 0,
+	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathRelativePath": "",
+	"jadeAutoOutputPathReplace1": "",
+	"jadeAutoOutputPathReplace2": "",
+	"jadeAutoOutputPathStyle": 0,
+	"jadeCompileDebug": 1,
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathRelativePath": "\/min",
+	"javascriptAutoOutputPathReplace1": "",
+	"javascriptAutoOutputPathReplace2": "",
+	"javascriptAutoOutputPathStyle": 2,
+	"javascriptCreateSourceMap": 1,
+	"javascriptOutputStyle": 1,
+	"javascriptOutputSuffix": "-ck",
+	"javascriptSyntaxCheckerStyle": 1,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"ass": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"closure": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"continue": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eqeq": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"newcap": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nomen": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sloppy": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"stupid": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"todo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unparam": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathReplace1": "",
+	"kitAutoOutputPathReplace2": "",
+	"kitAutoOutputPathStyle": 0,
+	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathRelativePath": "..\/css",
+	"lessAutoOutputPathReplace1": "less",
+	"lessAutoOutputPathReplace2": "css",
+	"lessAutoOutputPathStyle": 2,
+	"lessCreateSourceMap": 0,
+	"lessDisableJavascript": 0,
+	"lessIeCompatibility": 1,
+	"lessOutputStyle": 0,
+	"lessRelativeURLS": 0,
+	"lessStrictImports": 0,
+	"lessStrictMath": 0,
+	"lessStrictUnits": 0,
+	"markdownAutoOutputPathRelativePath": "",
+	"markdownAutoOutputPathReplace1": "",
+	"markdownAutoOutputPathReplace2": "",
+	"markdownAutoOutputPathStyle": 0,
+	"markdownEnableFootnotes": 0,
+	"markdownEnableSmartyPants": 1,
+	"markdownExpandTabs": 1,
+	"reloadFileURLs": 1,
+	"sassAutoOutputPathRelativePath": "..\/css",
+	"sassAutoOutputPathReplace1": "sass",
+	"sassAutoOutputPathReplace2": "css",
+	"sassAutoOutputPathStyle": 2,
+	"sassCreateSourceMap": 0,
+	"sassDebugStyle": 0,
+	"sassDecimalPrecision": 5,
+	"sassOutputStyle": 0,
+	"sassUseLibsass": 0,
+	"shouldRunAutoprefixer": 0,
+	"shouldRunBless": 0,
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathRelativePath": "",
+	"slimAutoOutputPathReplace1": "",
+	"slimAutoOutputPathReplace2": "",
+	"slimAutoOutputPathStyle": 0,
+	"slimCompileOnly": 0,
+	"slimLogicless": 0,
+	"slimOutputStyle": 1,
+	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathReplace1": "stylus",
+	"stylusAutoOutputPathReplace2": "css",
+	"stylusAutoOutputPathStyle": 2,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
+	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathRelativePath": "\/js",
+	"typescriptAutoOutputPathReplace1": "",
+	"typescriptAutoOutputPathReplace2": "",
+	"typescriptAutoOutputPathStyle": 2,
+	"typescriptCreateDeclarationFile": 0,
+	"typescriptCreateSourceMap": 0,
+	"typescriptMinifyOutput": 0,
+	"typescriptModuleType": 0,
+	"typescriptNoImplicitAny": 0,
+	"typescriptNoResolve": 0,
+	"typescriptRemoveComments": 0,
+	"typescriptTargetECMAVersion": 0,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "2"
+}
