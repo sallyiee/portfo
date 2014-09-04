@@ -83,11 +83,12 @@ $(document).ready(function(){
 
   //NAVIGATION
 
-  $('.main-header').addClass('large');
 
   if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
         $('.main-header').removeClass('large');
 
+  } else{
+      $('.main-header').addClass('large');
   }
 
 
@@ -109,7 +110,7 @@ $(document).ready(function(){
          $('nav').addClass('fixed');
      }
     else if($(window).scrollTop() === 0) {
-        $('.main-header').removeClass('small').addClass('large');
+        // $('.main-header').removeClass('small').addClass('large');
     }
     else {
          $('.main-header').removeClass('large').addClass('small');
