@@ -157,6 +157,7 @@ h2 {
 }
 .main-header {
   background: url('../img/ver-3/main-bg.jpg') no-repeat center center;
+  background-attachment: fixed;
   background-size: cover;
   width: 100%;
   -webkit-transition: min-height 1s;
