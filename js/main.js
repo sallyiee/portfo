@@ -111,7 +111,6 @@ $(document).ready(function(){
        }
       else if($(window).scrollTop() === 0) {
           // $('.main-header').removeClass('small').addClass('large');
-          $('nav').removeClass('fixed');
       }
       else {
            $('.main-header').removeClass('large').addClass('small');
