@@ -85,7 +85,7 @@ $(document).ready(function(){
 
 
   if (navigator.userAgent.match(/(iPod|iPhone|iPad)/i)) {
-    $('.main-header').removeClass('large');
+    $('.main-header').removeClass('large').addClass('small');
 
   } else{
       $('.main-header').addClass('large');
