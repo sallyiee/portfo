@@ -93,30 +93,30 @@ $(document).ready(function(){
 
 
   $(window).on('scroll', function() {       
-  if($(window).scrollTop() > 1300) {
-        $('#showcase').parents().find('#showcase-nav').addClass('active');
-        $('#showcase').parents().find('#showcase-nav').siblings().removeClass('active');
-    }else if ($(window).scrollTop() > 600) {
-        $('#skill').parents().find('#skill-nav').addClass('active');
-        $('#skill').parents().find('#skill-nav').siblings().removeClass('active');
-    }
-    else{
-        $('#skill').parents().find('#about-me-nav').addClass('active');
-        $('#skill').parents().find('#about-me-nav').siblings().removeClass('active');
-    }
+    if($(window).scrollTop() > 1300) {
+          $('#showcase').parents().find('#showcase-nav').addClass('active');
+          $('#showcase').parents().find('#showcase-nav').siblings().removeClass('active');
+      }else if ($(window).scrollTop() > 600) {
+          $('#skill').parents().find('#skill-nav').addClass('active');
+          $('#skill').parents().find('#skill-nav').siblings().removeClass('active');
+      }
+      else{
+          $('#skill').parents().find('#about-me-nav').addClass('active');
+          $('#skill').parents().find('#about-me-nav').siblings().removeClass('active');
+      }
 
-   var navHeight = $(window).height() - 420;
-    if ($(window).scrollTop() > navHeight) {
-         $('nav').addClass('fixed');
-     }
-    else if($(window).scrollTop() === 0) {
-        // $('.main-header').removeClass('small').addClass('large');
-    }
-    else {
-         $('.main-header').removeClass('large').addClass('small');
+     var navHeight = $(window).height() - 420;
+      if ($(window).scrollTop() > navHeight) {
+           $('nav').addClass('fixed');
+       }
+      else if($(window).scrollTop() === 0) {
+          // $('.main-header').removeClass('small').addClass('large');
           $('nav').removeClass('fixed');
-     }
-
+      }
+      else {
+           $('.main-header').removeClass('large').addClass('small');
+           $('nav').removeClass('fixed');
+       }
     });
 
 });
