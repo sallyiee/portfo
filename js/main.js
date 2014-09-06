@@ -84,8 +84,8 @@ $(document).ready(function(){
   //NAVIGATION
 
 
-  if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
-        $('.main-header').removeClass('large');
+  if (navigator.userAgent.match(/(iPod|iPhone|iPad)/i)) {
+    $('.main-header').removeClass('large');
 
   } else{
       $('.main-header').addClass('large');

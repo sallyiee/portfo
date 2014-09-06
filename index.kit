@@ -166,10 +166,11 @@
 			</div>
 			<div class="medium-box">
 				<ul class="center-text contact remove-margin">
-					<li><a href="#">Email Me</a></li>
-					<li><a href="#">LinkedIn</a></li>
-					<li><a href="#">GitHub</a></li>
-					<li><a href="#">Codepen</a></li>
+					<li><a href="mailto:sally.amy.lee@gmail.com">Email Me</a></li>
+					<li><a href="http://www.linkedin.com/pub/sally-lee/24/689/a92" target="_blank">LinkedIn</a></li>
+					<li><a href="https://github.com/sallyiee" target="_blank">GitHub</a></li>
+					<li><a href="http://codepen.io/sallyiee/loved/" target="_blank">Codepen</a></li>
+					<li><a href="https://twitter.com/SallyIee" target="_blank">Twitter</a></li>
 				</ul>
 			</div>
 		</div>		
@@ -179,122 +180,3 @@
 
 
 <!-- @import "footer.kit" -->
-
-<script>
-   $(document).ready(function(){
-		
-		
-		 $('.iframe-link').magnificPopup({
-		 	type:'iframe'
-		 });
-
-		 $('.image-link').magnificPopup({
-		 	type:'image'
-		 });
-
-		//FORM
-		// Get the form.
-	    var form = $('#ajax-contact');
-
-	    // Get the messages div.
-	    var formMessages = $('#form-messages');
-	    $(form).submit(function(event) {
-			    // Stop the browser from submitting the form.
-			    event.preventDefault();
-
-			    // TODO
-			    // Serialize the form data.
-				var formData = $(form).serialize();
-				$.ajax({
-				    type: 'POST',
-				    url: $(form).attr('action'),
-				    data: formData
-				}).done(function(response) {
-				    // Make sure that the formMessages div has the 'success' class.
-				    $(formMessages).removeClass('error');
-				    $(formMessages).addClass('success');
-
-				    // Set the message text.
-				    $(formMessages).text(response);
-
-				    // Clear the form.
-				    $('#name').val('');
-				    $('#email').val('');
-				    $('#message').val('');
-				}).fail(function(data) {
-				    // Make sure that the formMessages div has the 'error' class.
-				    $(formMessages).removeClass('success');
-				    $(formMessages).addClass('error');
-
-				    // Set the message text.
-				    if (data.responseText !== '') {
-				        $(formMessages).text(data.responseText);
-				        $('#ajax-contact').hide();
-				    } else {
-				        $(formMessages).text('Oops! An error occured and your message could not be sent. Please try again');
-				    }
-				});
-			});
-		//END OF FORM
-
-		// PROJECTS
-		var posts = $('.post');
-
-		// Click function
-		$( ".project-nav li span" ).click(function(e) { 
-		    // Get data of category
-		    var customType = $( this ).data('filter'); // category
-
-		    if (customType === "all"){
-		    	posts.show();
-		    } else{
-		    posts.hide().filter(function () {
-		            return $(this).data('cat') === customType;
-		        }).show();
-			}
-
-			//Active and decativiting class on navigation
-			 var $parentClass = $(this).parent();
-			 if(!$parentClass.hasClass('active')){
-			 	$parentClass.addClass('active');
-			 }
-			 $parentClass.siblings().removeClass("active");
-			 e.preventDefault();
-
-		});
-	  //END OF PROJECT
-
-	  //NAVIGATION
-
-	  $('.main-header').addClass('large');
-
-      $(window).on('scroll', function() {       
-      if($(window).scrollTop() > 1300) {
-        	$('#showcase').parents().find('#showcase-nav').addClass('active');
-            $('#showcase').parents().find('#showcase-nav').siblings().removeClass('active');
-        }else if ($(window).scrollTop() > 600) {
-         	$('#skill').parents().find('#skill-nav').addClass('active');
-            $('#skill').parents().find('#skill-nav').siblings().removeClass('active');
-        }
-        else{
-        	$('#skill').parents().find('#about-me-nav').addClass('active');
-            $('#skill').parents().find('#about-me-nav').siblings().removeClass('active');
-        }
-
-       var navHeight = $(window).height() - 420;
-        if ($(window).scrollTop() > navHeight) {
-             $('nav').addClass('fixed');
-         }
-        else if($(window).scrollTop() == 0) {
-        	// $('.main-header').removeClass('small').addClass('large');
-        }
-        else {
-             $('.main-header').removeClass('large').addClass('small');
-              $('nav').removeClass('fixed');
-         }
-
-        });
-		//END OF NAV
-  
-    });
-</script>
